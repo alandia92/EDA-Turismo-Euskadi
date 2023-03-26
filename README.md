@@ -49,11 +49,11 @@ Comparación de datos con Madrid por su crisis de la vivienda con el aumento del
 
 Precio por m2 en venta
 
-![Precio Venta](./img/Venta.png)
+![Precio Venta](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Venta.png)
 
 Precio por m2 en alquiler
 
-![Precio alquiler](./img/Alquiler.png)
+![Precio alquiler](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Alquiler.png)
 
 En los graficos podemos apreciar el crecimiento de precios en alquiler y venta de vivienda tanto en Madrid como en Euskadi.
 El aumento puede ser debido a muchas causas, no sólo el aumento del turismo.
@@ -67,19 +67,19 @@ Para analizar como puede afectar a la calidad de vida se han tenido en cuenta va
 
 ### ¿Qué días se tarbaja más?
 
-![Pernoctaciones dias de la semana](./img/dias%20semana.png)
+![Pernoctaciones dias de la semana](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/dias%20semana.png)
 
 Según los datos presentados, se observa que la diferencia en el porcentaje de días trabajados entre los días laborables y los fines de semana es de alrededor del 10%. A partir de esta información, se podría concluir que los horarios de trabajo no están equilibrados para permitir un equilibrio entre la vida laboral y personal.
 
 ### ¿Qué periodo del año se trabaja más?
 
-![Entradas durante el año](./img/Entradas%20en%20el%20a%C3%B1o.png)
+![Entradas durante el año](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Entradas%20en%20el%20a%C3%B1o.png)
 
 A partir de la gráfica, se puede observar que este trabajo es altamente estacional, con su pico en la temporada de primavera-verano y una disminución en otras épocas del año. Además, se puede apreciar que durante una crisis, como ocurrió en el 2020, las entradas y el empleo disminuyen significativamente.
 
 ### ¿Como evoluciona el paro?
 
-![Evolución del paro](./img/Evolucion%20del%20paro%20por%20sector.png)
+![Evolución del paro](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Evolucion%20del%20paro.png)
 
 La gráfica muestra que el sector de servicios tiene un alto nivel de empleo, sin embargo, también se observa una tendencia de picos en los niveles de empleo que varían a lo largo del tiempo.
 
@@ -87,13 +87,13 @@ La gráfica muestra que el sector de servicios tiene un alto nivel de empleo, si
 
 La variabilidad se puede medir mediante la desviación estándar o la varianza de los valores de empleo en cada sector. Los sectores con una desviación estándar o una varianza más baja tendrán una evolución del empleo más estable.
 
-![STD por sector](./img/Desviacion%20std.png)
+![STD por sector](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Desviacion%20std.png)
 
 Como se mencionó previamente, cuanto mayor sea la desviación estándar, mayor será la inestabilidad en el empleo de un sector. En la gráfica anterior, se observa una tendencia de picos en el sector de servicios, lo que se refleja en una desviación estándar más alta en comparación con los demás sectores.
 
 ### Salario medio
 
-![Salario medio](./img/salario%20medio.png)
+![Salario medio](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/salario%20medio.png)
 
 La gráfica muestra que el salario medio ha experimentado un ligero aumento en el transcurso de varios años, sin embargo, sigue siendo uno de los salarios más bajos en comparación con otros sectores.
 
@@ -101,9 +101,9 @@ La gráfica muestra que el salario medio ha experimentado un ligero aumento en e
 
 A medida que se intensifican las campañas para reducir los niveles de emisiones en la atmósfera, se están implementando medidas para obstaculizar el uso de vehículos en nuestras actividades diarias, como ir al trabajo o hacer compras. Sin embargo, estas medidas entran en conflicto con las campañas para fomentar el turismo, ya que el aumento del turismo puede resultar en un aumento en el uso de vehículos, como aviones y otros medios de transporte, para trasladar a los turistas.
 
-![Emisiones CO2](./img/co2.png)
+![Emisiones CO2](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/co2.png)
 
-La gráfica muestra claramente que las emisiones de CO2 están en aumento, con picos que corresponden a la temporada de primavera-verano. Esta tendencia va en contra de las campañas que buscan reducir las emisiones a la atmósfera, y podría ser exacerbada por el aumento del turismo, lo que a su vez podría aumentar el uso de vehículos y los niveles de emisiones de CO2.
+La gráfica muestra claramente que las emisiones de CO2 están en aumento. Esta tendencia va en contra de las campañas que buscan reducir las emisiones a la atmósfera, y podría ser exacerbada por el aumento del turismo, lo que a su vez podría aumentar el uso de vehículos y los niveles de emisiones de CO2.
 
 ## Conclusiones
 
