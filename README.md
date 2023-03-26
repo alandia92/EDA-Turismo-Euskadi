@@ -39,7 +39,7 @@ Para la limpieza y el tratamiento de datos, se ha utilizado Python y las libreri
 
 > ## Aumento del turismo en Euskadi
 
-![Turismo Euskadi](./img/Turismo%20en%20euskadi.png)
+![Turismo Euskadi](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Turismo%20en%20euskadi.png)
 
 La gráfica muestra claramente que el turismo en Euskadi estaba en aumento antes de la pandemia y que después de la misma, se han vuelto a alcanzar niveles similares.
 
