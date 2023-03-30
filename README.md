@@ -47,11 +47,11 @@ La gráfica muestra claramente que el turismo en Euskadi estaba en aumento antes
 
 Comparación de datos con Madrid por su crisis de la vivienda con el aumento del turismo
 
-Precio por m2 en venta
+Precio por m2 en venta (correlación 0.69)
 
 ![Precio Venta](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Venta.png)
 
-Precio por m2 en alquiler
+Precio por m2 en alquiler (correlación de 0.85)
 
 ![Precio alquiler](https://github.com/alandia92/Proyecto-Data-Analysis/blob/main/memoria/img/Alquiler.png)
 
