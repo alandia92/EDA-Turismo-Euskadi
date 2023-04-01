@@ -23,7 +23,7 @@ Para la recolección de datos, se han tenido en cuenta las siguientes hipótesis
 ### ADQUISICIÓN DE DATOS
 
 La recopilación de datos se ha realizado en las siguientes fuentes
-> INE (Instituto Nacionakl de Esradística)\
+> INE (Instituto Nacional de Estadística)\
 > EUSTAT (Instituto Vasco de Estadística)\
 > SEPE (Servicio Publico de Empleo Estatal)\
 > OPEN DATA EUSKADI\
